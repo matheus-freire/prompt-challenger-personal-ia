@@ -121,3 +121,28 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+1- Biotipo:
+
+1.1- Ectomorfo: Corpo mais magro, difícil ganhar peso e massa muscular.
+1.2- Mesomorfo: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+1.3- Endomorfo: Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+2- Disponibilidade semanal:
+
+2.1- 1 dia: Treino Full Body
+2.2- 3 dias: Treino ABC
+2.3- 5 dias: Treino ABCDE
+3- Tipos de exercício:
+
+3.1- Funcional: Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+3.2- Maquinário: Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+3.3- Peso Livre: Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+3.4- Cardio: Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+3.5- HIIT: Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+3.6- Sem restrição de exercício
+4- Nível de resistência:
+
+4.1- Nível 1: Sedentário e iniciante nos treinos
+4.2- Nível 2: Treina há mais de 3 meses e menos de 1 ano
+4.3- Nível 3: Treina há mais de 1 ano
+4.4- Nível 4: Treina pesado há mais de 1 ano
+Características do indivíduo: (Preencher a cada aluno para obter resposta personalizada)"
